@@ -38,5 +38,5 @@ Note: In these steps, we navigated to our desired directory by entering its exac
 - `cd ..`: goes to the folder that contains your current directory, think of this as going up by a level
 
 [^1]: Version 1 - 2023: Ravi Tejwani, Erik Ballesteros, Chengyuan Ma, Kamal Youcef-Toumi  
-  Version 2 - 2024: Jinger Chong
+  Version 2 - 2024: Jinger Chong  
   Version 3 - 2025: Roberto Bolli, Kaleb Blake
