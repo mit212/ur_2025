@@ -7,7 +7,7 @@ Spring 2025[^1]
 
 ## Connecting to the UR5
 
-If you have installed RTDE to Python directly (not on WSL), simply open your favorite text editor and run the code in Python. If you installed RTDE on Windows Subsystem for Linux (WSL), follow these steps:
+If you have installed RTDE in Python directly (not on WSL), simply open your favorite text editor and run the code in Python. If you installed RTDE on Windows Subsystem for Linux (WSL), follow these steps:
 
 1. Open a WSL terminal by entering `wsl` in Command Prompt. Your terminal should say something like `LAPTOP_NAME: mnt/c/Users/yourname$`. This is the current directory. 
 2. Since the file you want to run is likely in another folder, we will change the current directory to be that folder. Open File Explorer and navigate to that folder.
