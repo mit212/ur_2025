@@ -3,7 +3,7 @@
 2.12/2.120 Intro to Robotics  
 Spring 2025[^1]
 
-This code is provided for your convenience. Read through the comments in the files to understand how they work. If you have any questions, please ask the TAs.
+**_This code is provided for your convenience. Read through the comments in the files to understand how they work. If you have any questions, please ask the TAs._**
 
 ## Connecting to the UR5
 
