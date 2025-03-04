@@ -67,7 +67,7 @@ while(True):
     pygame.event.get() # Call this every loop iteration to update the joystick readings
     pose = rtde_r.getActualTCPPose()
 
-    # Map joystick axes to robot axes, using a 2D rotation matrix of 45 degrees, since robot axes are 45 degrees from conveyor belt axes
+    # Map joystick axes to robot axes, using a 2D rotation matrix of 45 degrees, since the robot axes are rotated 45 degrees w.r.t. the conveyor belt axes
     joy_x = joy.get_axis(1)/4.0*0.7071 - joy.get_axis(0)/4.0*0.7071
     joy_y = joy.get_axis(1)/4.0*0.7071 + joy.get_axis(0)/4.0*0.7071
     joy_z = (-1*joy.get_button(2) + joy.get_button(3))/5.0
