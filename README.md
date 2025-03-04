@@ -7,8 +7,6 @@ Spring 2025[^1]
 
 If you have installed RTDE to Python directly (not on WSL), simply open your favorite text editor and run the code in Python. If you installed RTDE on Windows Subsystem for Linux (WSL), follow these steps:
 
-**Option 2: WSL Terminal**
-
 1. Open a WSL terminal by entering `wsl` in Command Prompt. Your terminal should say something like `LAPTOP_NAME: mnt/c/Users/yourname$`. This is the current directory. 
 2. Since the file you want to run is likely in another folder, we will change the current directory to be that folder. Open File Explorer and navigate to that folder.
 3. Right-click the address bar at the top of the screen and select "Copy Address" from the dropdown that appears.
