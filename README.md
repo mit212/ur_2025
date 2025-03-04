@@ -1,4 +1,4 @@
-# Universal Robots UR5 Robot Arm Example Code
+# Universal Robots UR5 Robot Arm - Example RTDE Code
 
 2.12/2.120 Intro to Robotics  
 Spring 2025[^1]
