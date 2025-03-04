@@ -24,7 +24,7 @@ If you have installed RTDE in Python directly (not on WSL), simply open your fav
 5. Replace all the `\` with `/` and replace `C:` with `/mnt/c`. Your command should now look like 
 
     ```
-    cd "/mnt/c/Users/yourname/Documents/MIT/ur_2024"
+    cd "/mnt/c/Users/yourname/Documents/MIT/ur_2025"
     ```
 
 6. Hit enter. Your terminal should show a new current directory.
