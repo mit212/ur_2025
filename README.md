@@ -3,6 +3,8 @@
 2.12/2.120 Intro to Robotics  
 Spring 2025[^1]
 
+This code is provided for your convenience. Read through the comments in the files to understand how they work. If you have any questions, please ask the TAs.
+
 ## Connecting to the UR5
 
 If you have installed RTDE to Python directly (not on WSL), simply open your favorite text editor and run the code in Python. If you installed RTDE on Windows Subsystem for Linux (WSL), follow these steps:
