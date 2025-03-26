@@ -14,7 +14,7 @@ gripper = robotiq_gripper.RobotiqGripper()
 gripper.connect("192.168.1.102", 63352)
 gripper.activate()
 
-# Connect to the grey Logitech joystick
+# Connect to the grey Logitech joystick. Note that your team will have to build your own joystick :)
 pygame.init()
 pygame.joystick.init()
 joy = pygame.joystick.Joystick(0)
